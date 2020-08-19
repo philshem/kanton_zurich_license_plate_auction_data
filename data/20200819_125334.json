@@ -1,0 +1,2512 @@
+{
+  "ZH 932": {
+    "kanton": "ZH",
+    "number": 932,
+    "price": 19200,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/25299",
+    "bids": {
+      "0": {
+        "bidder": "Pel",
+        "price": 4000,
+        "bid_date": "2020-08-13T07:12:33.000Z"
+      },
+      "1": {
+        "bidder": "kgw",
+        "price": 7200,
+        "bid_date": "2020-08-13T10:11:56.000Z"
+      },
+      "2": {
+        "bidder": "pisello1",
+        "price": 10000,
+        "bid_date": "2020-08-13T10:28:25.000Z"
+      },
+      "3": {
+        "bidder": "Lenox",
+        "price": 10400,
+        "bid_date": "2020-08-13T10:45:25.000Z"
+      },
+      "4": {
+        "bidder": "kgw",
+        "price": 13600,
+        "bid_date": "2020-08-13T11:49:36.000Z"
+      },
+      "5": {
+        "bidder": "pisello1",
+        "price": 14000,
+        "bid_date": "2020-08-13T14:13:43.000Z"
+      },
+      "6": {
+        "bidder": "Pel",
+        "price": 14400,
+        "bid_date": "2020-08-13T20:01:20.000Z"
+      },
+      "7": {
+        "bidder": "Lenox",
+        "price": 14800,
+        "bid_date": "2020-08-13T23:20:46.000Z"
+      },
+      "8": {
+        "bidder": "gordi08",
+        "price": 15200,
+        "bid_date": "2020-08-14T00:43:23.000Z"
+      },
+      "9": {
+        "bidder": "Lenox",
+        "price": 15600,
+        "bid_date": "2020-08-14T17:53:16.000Z"
+      },
+      "10": {
+        "bidder": "kgw",
+        "price": 18800,
+        "bid_date": "2020-08-14T18:40:27.000Z"
+      },
+      "11": {
+        "bidder": "gordi08",
+        "price": 19200,
+        "bid_date": "2020-08-18T15:29:46.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 5427": {
+    "kanton": "ZH",
+    "number": 5427,
+    "price": 7000,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/12257",
+    "bids": {
+      "0": {
+        "bidder": "Kimi75",
+        "price": 2000,
+        "bid_date": "2020-08-13T12:10:23.000Z"
+      },
+      "1": {
+        "bidder": "Im022",
+        "price": 2200,
+        "bid_date": "2020-08-13T16:20:37.000Z"
+      },
+      "2": {
+        "bidder": "Pel",
+        "price": 2400,
+        "bid_date": "2020-08-13T20:00:33.000Z"
+      },
+      "3": {
+        "bidder": "Rifraf905",
+        "price": 2600,
+        "bid_date": "2020-08-15T01:10:21.000Z"
+      },
+      "4": {
+        "bidder": "ed30",
+        "price": 3000,
+        "bid_date": "2020-08-16T00:05:28.000Z"
+      },
+      "5": {
+        "bidder": "itur54",
+        "price": 3200,
+        "bid_date": "2020-08-16T00:44:40.000Z"
+      },
+      "6": {
+        "bidder": "Laab",
+        "price": 3600,
+        "bid_date": "2020-08-16T14:58:20.000Z"
+      },
+      "7": {
+        "bidder": "haustechniker",
+        "price": 3800,
+        "bid_date": "2020-08-17T07:51:31.000Z"
+      },
+      "8": {
+        "bidder": "Willi2002",
+        "price": 5400,
+        "bid_date": "2020-08-17T12:48:37.000Z"
+      },
+      "9": {
+        "bidder": "papillon",
+        "price": 6200,
+        "bid_date": "2020-08-17T14:08:00.000Z"
+      },
+      "10": {
+        "bidder": "virginiaalessia",
+        "price": 6400,
+        "bid_date": "2020-08-19T08:58:34.000Z"
+      },
+      "11": {
+        "bidder": "papillon",
+        "price": 7000,
+        "bid_date": "2020-08-19T10:37:11.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 13203": {
+    "kanton": "ZH",
+    "number": 13203,
+    "price": 2500,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/25828",
+    "bids": {
+      "0": {
+        "bidder": "tschibba",
+        "price": 500,
+        "bid_date": "2020-08-13T08:45:10.000Z"
+      },
+      "1": {
+        "bidder": "Fredy007",
+        "price": 550,
+        "bid_date": "2020-08-13T08:57:29.000Z"
+      },
+      "2": {
+        "bidder": "bluemli",
+        "price": 600,
+        "bid_date": "2020-08-13T10:33:56.000Z"
+      },
+      "3": {
+        "bidder": "Kimi75",
+        "price": 650,
+        "bid_date": "2020-08-13T12:12:29.000Z"
+      },
+      "4": {
+        "bidder": "artani_ti",
+        "price": 950,
+        "bid_date": "2020-08-14T09:52:39.000Z"
+      },
+      "5": {
+        "bidder": "Kimi75",
+        "price": 900,
+        "bid_date": "2020-08-14T09:52:39.000Z"
+      },
+      "6": {
+        "bidder": "artani_ti",
+        "price": 850,
+        "bid_date": "2020-08-14T09:52:39.000Z"
+      },
+      "7": {
+        "bidder": "Vinz",
+        "price": 1500,
+        "bid_date": "2020-08-14T16:06:46.000Z"
+      },
+      "8": {
+        "bidder": "costarica",
+        "price": 2000,
+        "bid_date": "2020-08-17T08:20:57.000Z"
+      },
+      "9": {
+        "bidder": "Vinz",
+        "price": 2050,
+        "bid_date": "2020-08-17T17:28:48.000Z"
+      },
+      "10": {
+        "bidder": "Palmi",
+        "price": 2200,
+        "bid_date": "2020-08-19T06:58:15.000Z"
+      },
+      "11": {
+        "bidder": "Lmp79",
+        "price": 2500,
+        "bid_date": "2020-08-19T09:12:35.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 21401": {
+    "kanton": "ZH",
+    "number": 21401,
+    "price": 1500,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/28269",
+    "bids": {
+      "0": {
+        "bidder": "Haddock",
+        "price": 330,
+        "bid_date": "2020-08-13T09:05:10.000Z"
+      },
+      "1": {
+        "bidder": "GRMA",
+        "price": 360,
+        "bid_date": "2020-08-13T17:56:24.000Z"
+      },
+      "2": {
+        "bidder": "Coma21",
+        "price": 390,
+        "bid_date": "2020-08-13T21:41:27.000Z"
+      },
+      "3": {
+        "bidder": "GRMA",
+        "price": 420,
+        "bid_date": "2020-08-13T21:41:27.000Z"
+      },
+      "4": {
+        "bidder": "pisello1",
+        "price": 450,
+        "bid_date": "2020-08-14T11:35:05.000Z"
+      },
+      "5": {
+        "bidder": "GRMA",
+        "price": 480,
+        "bid_date": "2020-08-14T11:35:05.000Z"
+      },
+      "6": {
+        "bidder": "pisello1",
+        "price": 510,
+        "bid_date": "2020-08-14T11:35:17.000Z"
+      },
+      "7": {
+        "bidder": "GRMA",
+        "price": 540,
+        "bid_date": "2020-08-14T11:35:17.000Z"
+      },
+      "8": {
+        "bidder": "pisello1",
+        "price": 570,
+        "bid_date": "2020-08-14T11:35:33.000Z"
+      },
+      "9": {
+        "bidder": "GRMA",
+        "price": 600,
+        "bid_date": "2020-08-14T11:35:33.000Z"
+      },
+      "10": {
+        "bidder": "pisello1",
+        "price": 630,
+        "bid_date": "2020-08-14T11:35:43.000Z"
+      },
+      "11": {
+        "bidder": "GRMA",
+        "price": 660,
+        "bid_date": "2020-08-14T11:35:43.000Z"
+      },
+      "12": {
+        "bidder": "pisello1",
+        "price": 690,
+        "bid_date": "2020-08-14T11:35:55.000Z"
+      },
+      "13": {
+        "bidder": "GRMA",
+        "price": 720,
+        "bid_date": "2020-08-14T11:35:55.000Z"
+      },
+      "14": {
+        "bidder": "GRMA",
+        "price": 810,
+        "bid_date": "2020-08-14T11:36:08.000Z"
+      },
+      "15": {
+        "bidder": "pisello1",
+        "price": 780,
+        "bid_date": "2020-08-14T11:36:08.000Z"
+      },
+      "16": {
+        "bidder": "pisello1",
+        "price": 900,
+        "bid_date": "2020-08-14T11:36:38.000Z"
+      },
+      "17": {
+        "bidder": "GRMA",
+        "price": 930,
+        "bid_date": "2020-08-14T11:36:38.000Z"
+      },
+      "18": {
+        "bidder": "pisello1",
+        "price": 990,
+        "bid_date": "2020-08-14T11:36:46.000Z"
+      },
+      "19": {
+        "bidder": "GRMA",
+        "price": 1020,
+        "bid_date": "2020-08-14T11:36:46.000Z"
+      },
+      "20": {
+        "bidder": "pisello1",
+        "price": 1110,
+        "bid_date": "2020-08-14T11:37:09.000Z"
+      },
+      "21": {
+        "bidder": "Lokelo",
+        "price": 1140,
+        "bid_date": "2020-08-15T14:00:20.000Z"
+      },
+      "22": {
+        "bidder": "DWP",
+        "price": 1170,
+        "bid_date": "2020-08-17T09:41:54.000Z"
+      },
+      "23": {
+        "bidder": "Marcel_01",
+        "price": 1200,
+        "bid_date": "2020-08-17T18:33:44.000Z"
+      },
+      "24": {
+        "bidder": "daisy",
+        "price": 1230,
+        "bid_date": "2020-08-18T16:32:46.000Z"
+      },
+      "25": {
+        "bidder": "carfin",
+        "price": 1260,
+        "bid_date": "2020-08-18T23:22:45.000Z"
+      },
+      "26": {
+        "bidder": "Vinz",
+        "price": 1500,
+        "bid_date": "2020-08-19T09:11:43.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 36302": {
+    "kanton": "ZH",
+    "number": 36302,
+    "price": 1350,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/14236",
+    "bids": {
+      "0": {
+        "bidder": "SM88LW",
+        "price": 300,
+        "bid_date": "2020-08-14T07:47:50.000Z"
+      },
+      "1": {
+        "bidder": "Pepito",
+        "price": 330,
+        "bid_date": "2020-08-14T07:58:45.000Z"
+      },
+      "2": {
+        "bidder": "deniz2205",
+        "price": 810,
+        "bid_date": "2020-08-14T10:12:56.000Z"
+      },
+      "3": {
+        "bidder": "Lokelo",
+        "price": 840,
+        "bid_date": "2020-08-15T14:00:38.000Z"
+      },
+      "4": {
+        "bidder": "deniz2205",
+        "price": 990,
+        "bid_date": "2020-08-15T14:12:11.000Z"
+      },
+      "5": {
+        "bidder": "rinaldo",
+        "price": 1020,
+        "bid_date": "2020-08-17T08:15:12.000Z"
+      },
+      "6": {
+        "bidder": "deniz2205",
+        "price": 1110,
+        "bid_date": "2020-08-17T08:16:48.000Z"
+      },
+      "7": {
+        "bidder": "Macentosch",
+        "price": 1140,
+        "bid_date": "2020-08-18T08:06:57.000Z"
+      },
+      "8": {
+        "bidder": "deniz2205",
+        "price": 1200,
+        "bid_date": "2020-08-18T08:07:43.000Z"
+      },
+      "9": {
+        "bidder": "rinaldo",
+        "price": 1230,
+        "bid_date": "2020-08-18T19:02:51.000Z"
+      },
+      "10": {
+        "bidder": "deniz2205",
+        "price": 1290,
+        "bid_date": "2020-08-18T19:46:12.000Z"
+      },
+      "11": {
+        "bidder": "rinaldo",
+        "price": 1350,
+        "bid_date": "2020-08-18T19:50:45.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 38197": {
+    "kanton": "ZH",
+    "number": 38197,
+    "price": 1320,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/14514",
+    "bids": {
+      "0": {
+        "bidder": "Gami",
+        "price": 330,
+        "bid_date": "2020-08-14T07:45:31.000Z"
+      },
+      "1": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 360,
+        "bid_date": "2020-08-14T23:12:33.000Z"
+      },
+      "2": {
+        "bidder": "Pepito",
+        "price": 390,
+        "bid_date": "2020-08-15T20:45:50.000Z"
+      },
+      "3": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 420,
+        "bid_date": "2020-08-15T20:45:50.000Z"
+      },
+      "4": {
+        "bidder": "Orkan",
+        "price": 450,
+        "bid_date": "2020-08-16T15:03:37.000Z"
+      },
+      "5": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 480,
+        "bid_date": "2020-08-16T15:03:37.000Z"
+      },
+      "6": {
+        "bidder": "Orkan",
+        "price": 510,
+        "bid_date": "2020-08-16T15:04:28.000Z"
+      },
+      "7": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 540,
+        "bid_date": "2020-08-16T15:04:28.000Z"
+      },
+      "8": {
+        "bidder": "SeatLeonCupra",
+        "price": 570,
+        "bid_date": "2020-08-16T19:06:32.000Z"
+      },
+      "9": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 600,
+        "bid_date": "2020-08-16T19:06:32.000Z"
+      },
+      "10": {
+        "bidder": "ziober",
+        "price": 630,
+        "bid_date": "2020-08-17T08:49:11.000Z"
+      },
+      "11": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 660,
+        "bid_date": "2020-08-17T08:49:11.000Z"
+      },
+      "12": {
+        "bidder": "Arlind majiq",
+        "price": 690,
+        "bid_date": "2020-08-17T09:09:48.000Z"
+      },
+      "13": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 720,
+        "bid_date": "2020-08-17T09:09:48.000Z"
+      },
+      "14": {
+        "bidder": "Arlind majiq",
+        "price": 780,
+        "bid_date": "2020-08-17T09:10:24.000Z"
+      },
+      "15": {
+        "bidder": "Pepito",
+        "price": 810,
+        "bid_date": "2020-08-17T10:01:24.000Z"
+      },
+      "16": {
+        "bidder": "novanummer",
+        "price": 840,
+        "bid_date": "2020-08-17T22:59:47.000Z"
+      },
+      "17": {
+        "bidder": "Macentosch",
+        "price": 870,
+        "bid_date": "2020-08-18T08:06:21.000Z"
+      },
+      "18": {
+        "bidder": "novanummer",
+        "price": 900,
+        "bid_date": "2020-08-18T08:06:21.000Z"
+      },
+      "19": {
+        "bidder": "Swisscollect",
+        "price": 1020,
+        "bid_date": "2020-08-18T12:46:41.000Z"
+      },
+      "20": {
+        "bidder": "novanummer",
+        "price": 1050,
+        "bid_date": "2020-08-18T12:46:41.000Z"
+      },
+      "21": {
+        "bidder": "Amar98",
+        "price": 1200,
+        "bid_date": "2020-08-18T21:40:28.000Z"
+      },
+      "22": {
+        "bidder": "Mirson",
+        "price": 1290,
+        "bid_date": "2020-08-19T09:16:32.000Z"
+      },
+      "23": {
+        "bidder": "Amar98",
+        "price": 1320,
+        "bid_date": "2020-08-19T12:00:36.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 42944": {
+    "kanton": "ZH",
+    "number": 42944,
+    "price": 1500,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/25097",
+    "bids": {
+      "0": {
+        "bidder": "Haddock",
+        "price": 330,
+        "bid_date": "2020-08-13T09:28:25.000Z"
+      },
+      "1": {
+        "bidder": "PS34",
+        "price": 390,
+        "bid_date": "2020-08-14T22:34:20.000Z"
+      },
+      "2": {
+        "bidder": "Serco83",
+        "price": 420,
+        "bid_date": "2020-08-15T22:19:45.000Z"
+      },
+      "3": {
+        "bidder": "lulu111",
+        "price": 450,
+        "bid_date": "2020-08-16T11:20:45.000Z"
+      },
+      "4": {
+        "bidder": "Orkan",
+        "price": 510,
+        "bid_date": "2020-08-16T15:05:38.000Z"
+      },
+      "5": {
+        "bidder": "lulu111",
+        "price": 540,
+        "bid_date": "2020-08-16T15:05:38.000Z"
+      },
+      "6": {
+        "bidder": "Ben1995",
+        "price": 600,
+        "bid_date": "2020-08-16T19:56:23.000Z"
+      },
+      "7": {
+        "bidder": "lulu111",
+        "price": 630,
+        "bid_date": "2020-08-16T19:56:23.000Z"
+      },
+      "8": {
+        "bidder": "Ben1995",
+        "price": 660,
+        "bid_date": "2020-08-16T19:57:16.000Z"
+      },
+      "9": {
+        "bidder": "lulu111",
+        "price": 690,
+        "bid_date": "2020-08-16T19:57:16.000Z"
+      },
+      "10": {
+        "bidder": "Ben1995",
+        "price": 720,
+        "bid_date": "2020-08-16T19:57:52.000Z"
+      },
+      "11": {
+        "bidder": "lulu111",
+        "price": 750,
+        "bid_date": "2020-08-16T19:57:52.000Z"
+      },
+      "12": {
+        "bidder": "Ben1995",
+        "price": 780,
+        "bid_date": "2020-08-16T20:00:28.000Z"
+      },
+      "13": {
+        "bidder": "lulu111",
+        "price": 810,
+        "bid_date": "2020-08-16T20:00:28.000Z"
+      },
+      "14": {
+        "bidder": "Ben1995",
+        "price": 840,
+        "bid_date": "2020-08-16T20:00:48.000Z"
+      },
+      "15": {
+        "bidder": "lulu111",
+        "price": 870,
+        "bid_date": "2020-08-16T20:00:48.000Z"
+      },
+      "16": {
+        "bidder": "Ben1995",
+        "price": 900,
+        "bid_date": "2020-08-16T20:01:07.000Z"
+      },
+      "17": {
+        "bidder": "lulu111",
+        "price": 930,
+        "bid_date": "2020-08-16T20:01:07.000Z"
+      },
+      "18": {
+        "bidder": "Ben1995",
+        "price": 960,
+        "bid_date": "2020-08-18T17:42:13.000Z"
+      },
+      "19": {
+        "bidder": "lulu111",
+        "price": 990,
+        "bid_date": "2020-08-18T17:42:13.000Z"
+      },
+      "20": {
+        "bidder": "Ben1995",
+        "price": 1410,
+        "bid_date": "2020-08-18T17:42:44.000Z"
+      },
+      "21": {
+        "bidder": "lulu111",
+        "price": 1440,
+        "bid_date": "2020-08-18T17:42:44.000Z"
+      },
+      "22": {
+        "bidder": "Ben1995",
+        "price": 1470,
+        "bid_date": "2020-08-18T17:42:44.000Z"
+      },
+      "23": {
+        "bidder": "tango",
+        "price": 1500,
+        "bid_date": "2020-08-18T22:06:09.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 45265": {
+    "kanton": "ZH",
+    "number": 45265,
+    "price": 1350,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/25652",
+    "bids": {
+      "0": {
+        "bidder": "Macentosch",
+        "price": 300,
+        "bid_date": "2020-08-14T09:24:37.000Z"
+      },
+      "1": {
+        "bidder": "Macentosch",
+        "price": 360,
+        "bid_date": "2020-08-14T23:08:50.000Z"
+      },
+      "2": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 330,
+        "bid_date": "2020-08-14T23:08:50.000Z"
+      },
+      "3": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 390,
+        "bid_date": "2020-08-14T23:09:19.000Z"
+      },
+      "4": {
+        "bidder": "Macentosch",
+        "price": 420,
+        "bid_date": "2020-08-14T23:09:19.000Z"
+      },
+      "5": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 450,
+        "bid_date": "2020-08-14T23:09:35.000Z"
+      },
+      "6": {
+        "bidder": "Macentosch",
+        "price": 480,
+        "bid_date": "2020-08-14T23:09:35.000Z"
+      },
+      "7": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 510,
+        "bid_date": "2020-08-14T23:09:56.000Z"
+      },
+      "8": {
+        "bidder": "Macentosch",
+        "price": 540,
+        "bid_date": "2020-08-14T23:09:56.000Z"
+      },
+      "9": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 570,
+        "bid_date": "2020-08-14T23:10:09.000Z"
+      },
+      "10": {
+        "bidder": "Macentosch",
+        "price": 600,
+        "bid_date": "2020-08-14T23:10:09.000Z"
+      },
+      "11": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 630,
+        "bid_date": "2020-08-14T23:10:24.000Z"
+      },
+      "12": {
+        "bidder": "Macentosch",
+        "price": 660,
+        "bid_date": "2020-08-14T23:10:24.000Z"
+      },
+      "13": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 690,
+        "bid_date": "2020-08-14T23:10:40.000Z"
+      },
+      "14": {
+        "bidder": "Macentosch",
+        "price": 720,
+        "bid_date": "2020-08-14T23:10:40.000Z"
+      },
+      "15": {
+        "bidder": "Macentosch",
+        "price": 780,
+        "bid_date": "2020-08-14T23:10:53.000Z"
+      },
+      "16": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 750,
+        "bid_date": "2020-08-14T23:10:53.000Z"
+      },
+      "17": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 810,
+        "bid_date": "2020-08-14T23:11:10.000Z"
+      },
+      "18": {
+        "bidder": "Macentosch",
+        "price": 840,
+        "bid_date": "2020-08-14T23:11:10.000Z"
+      },
+      "19": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 870,
+        "bid_date": "2020-08-14T23:11:24.000Z"
+      },
+      "20": {
+        "bidder": "Macentosch",
+        "price": 900,
+        "bid_date": "2020-08-14T23:11:24.000Z"
+      },
+      "21": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 930,
+        "bid_date": "2020-08-14T23:11:37.000Z"
+      },
+      "22": {
+        "bidder": "Macentosch",
+        "price": 960,
+        "bid_date": "2020-08-14T23:11:37.000Z"
+      },
+      "23": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 990,
+        "bid_date": "2020-08-14T23:11:52.000Z"
+      },
+      "24": {
+        "bidder": "Macentosch",
+        "price": 1020,
+        "bid_date": "2020-08-14T23:11:52.000Z"
+      },
+      "25": {
+        "bidder": "carfin",
+        "price": 1290,
+        "bid_date": "2020-08-18T23:23:50.000Z"
+      },
+      "26": {
+        "bidder": "Macentosch",
+        "price": 1320,
+        "bid_date": "2020-08-18T23:23:50.000Z"
+      },
+      "27": {
+        "bidder": "carfin",
+        "price": 1350,
+        "bid_date": "2020-08-18T23:23:50.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 52034": {
+    "kanton": "ZH",
+    "number": 52034,
+    "price": 1300,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/16110",
+    "bids": {
+      "0": {
+        "bidder": "arabas23",
+        "price": 200,
+        "bid_date": "2020-08-13T09:10:01.000Z"
+      },
+      "1": {
+        "bidder": "bluemli",
+        "price": 300,
+        "bid_date": "2020-08-14T12:06:38.000Z"
+      },
+      "2": {
+        "bidder": "Grace001",
+        "price": 400,
+        "bid_date": "2020-08-14T19:32:13.000Z"
+      },
+      "3": {
+        "bidder": "Chris27",
+        "price": 420,
+        "bid_date": "2020-08-16T09:25:28.000Z"
+      },
+      "4": {
+        "bidder": "Tiger88",
+        "price": 440,
+        "bid_date": "2020-08-16T12:11:53.000Z"
+      },
+      "5": {
+        "bidder": "Orkan",
+        "price": 520,
+        "bid_date": "2020-08-16T15:06:19.000Z"
+      },
+      "6": {
+        "bidder": "SeatLeonCupra",
+        "price": 540,
+        "bid_date": "2020-08-16T19:07:37.000Z"
+      },
+      "7": {
+        "bidder": "lancia98",
+        "price": 600,
+        "bid_date": "2020-08-17T07:36:00.000Z"
+      },
+      "8": {
+        "bidder": "novanummer",
+        "price": 620,
+        "bid_date": "2020-08-17T09:18:34.000Z"
+      },
+      "9": {
+        "bidder": "novanummer",
+        "price": 1020,
+        "bid_date": "2020-08-17T09:25:59.000Z"
+      },
+      "10": {
+        "bidder": "Pfusimus",
+        "price": 1000,
+        "bid_date": "2020-08-17T09:25:59.000Z"
+      },
+      "11": {
+        "bidder": "Pfusimus",
+        "price": 1300,
+        "bid_date": "2020-08-17T09:26:47.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 57151": {
+    "kanton": "ZH",
+    "number": 57151,
+    "price": 1400,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/28819",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T13:16:49.000Z"
+      },
+      "1": {
+        "bidder": "deniz2205",
+        "price": 500,
+        "bid_date": "2020-08-13T22:18:44.000Z"
+      },
+      "2": {
+        "bidder": "Sigi42",
+        "price": 1000,
+        "bid_date": "2020-08-13T22:48:05.000Z"
+      },
+      "3": {
+        "bidder": "deniz2205",
+        "price": 1100,
+        "bid_date": "2020-08-19T06:31:08.000Z"
+      },
+      "4": {
+        "bidder": "rolika",
+        "price": 1260,
+        "bid_date": "2020-08-19T09:45:09.000Z"
+      },
+      "5": {
+        "bidder": "deniz2205",
+        "price": 1300,
+        "bid_date": "2020-08-19T09:49:08.000Z"
+      },
+      "6": {
+        "bidder": "poulon",
+        "price": 1320,
+        "bid_date": "2020-08-19T09:49:34.000Z"
+      },
+      "7": {
+        "bidder": "deniz2205",
+        "price": 1340,
+        "bid_date": "2020-08-19T09:49:56.000Z"
+      },
+      "8": {
+        "bidder": "rolika",
+        "price": 1400,
+        "bid_date": "2020-08-19T10:04:19.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 57655": {
+    "kanton": "ZH",
+    "number": 57655,
+    "price": 1340,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/16795",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T12:10:19.000Z"
+      },
+      "1": {
+        "bidder": "Orkan",
+        "price": 220,
+        "bid_date": "2020-08-13T15:25:07.000Z"
+      },
+      "2": {
+        "bidder": "Arou",
+        "price": 240,
+        "bid_date": "2020-08-13T19:11:03.000Z"
+      },
+      "3": {
+        "bidder": "GRMASUPERNOVA",
+        "price": 260,
+        "bid_date": "2020-08-14T16:13:54.000Z"
+      },
+      "4": {
+        "bidder": "daboy906",
+        "price": 280,
+        "bid_date": "2020-08-14T20:08:40.000Z"
+      },
+      "5": {
+        "bidder": "PS34",
+        "price": 380,
+        "bid_date": "2020-08-14T22:32:20.000Z"
+      },
+      "6": {
+        "bidder": "daboy906",
+        "price": 400,
+        "bid_date": "2020-08-14T22:32:20.000Z"
+      },
+      "7": {
+        "bidder": "buriburi",
+        "price": 600,
+        "bid_date": "2020-08-15T15:53:18.000Z"
+      },
+      "8": {
+        "bidder": "Laab",
+        "price": 700,
+        "bid_date": "2020-08-16T14:52:00.000Z"
+      },
+      "9": {
+        "bidder": "Algy",
+        "price": 800,
+        "bid_date": "2020-08-16T19:05:14.000Z"
+      },
+      "10": {
+        "bidder": "Dani5",
+        "price": 840,
+        "bid_date": "2020-08-17T10:06:33.000Z"
+      },
+      "11": {
+        "bidder": "Amar06",
+        "price": 860,
+        "bid_date": "2020-08-17T20:09:32.000Z"
+      },
+      "12": {
+        "bidder": "Macentosch",
+        "price": 880,
+        "bid_date": "2020-08-18T17:50:03.000Z"
+      },
+      "13": {
+        "bidder": "Bashkim3",
+        "price": 940,
+        "bid_date": "2020-08-18T21:45:08.000Z"
+      },
+      "14": {
+        "bidder": "Macentosch",
+        "price": 960,
+        "bid_date": "2020-08-19T05:53:45.000Z"
+      },
+      "15": {
+        "bidder": "Faster",
+        "price": 980,
+        "bid_date": "2020-08-19T06:37:40.000Z"
+      },
+      "16": {
+        "bidder": "Macentosch",
+        "price": 1000,
+        "bid_date": "2020-08-19T06:37:40.000Z"
+      },
+      "17": {
+        "bidder": "RedStar",
+        "price": 1020,
+        "bid_date": "2020-08-19T07:09:04.000Z"
+      },
+      "18": {
+        "bidder": "Macentosch",
+        "price": 1040,
+        "bid_date": "2020-08-19T07:09:04.000Z"
+      },
+      "19": {
+        "bidder": "dzoni",
+        "price": 1100,
+        "bid_date": "2020-08-19T09:50:00.000Z"
+      },
+      "20": {
+        "bidder": "Macentosch",
+        "price": 1120,
+        "bid_date": "2020-08-19T09:50:00.000Z"
+      },
+      "21": {
+        "bidder": "dzoni",
+        "price": 1200,
+        "bid_date": "2020-08-19T09:51:01.000Z"
+      },
+      "22": {
+        "bidder": "Macentosch",
+        "price": 1220,
+        "bid_date": "2020-08-19T09:51:01.000Z"
+      },
+      "23": {
+        "bidder": "deniz2205",
+        "price": 1300,
+        "bid_date": "2020-08-19T10:06:30.000Z"
+      },
+      "24": {
+        "bidder": "Macentosch",
+        "price": 1320,
+        "bid_date": "2020-08-19T10:06:30.000Z"
+      },
+      "25": {
+        "bidder": "deniz2205",
+        "price": 1340,
+        "bid_date": "2020-08-19T10:08:36.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 59722": {
+    "kanton": "ZH",
+    "number": 59722,
+    "price": 1120,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/17046",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T12:10:51.000Z"
+      },
+      "1": {
+        "bidder": "brass",
+        "price": 220,
+        "bid_date": "2020-08-14T14:18:42.000Z"
+      },
+      "2": {
+        "bidder": "brass",
+        "price": 260,
+        "bid_date": "2020-08-14T14:32:49.000Z"
+      },
+      "3": {
+        "bidder": "Elster",
+        "price": 240,
+        "bid_date": "2020-08-14T14:32:49.000Z"
+      },
+      "4": {
+        "bidder": "daboy906",
+        "price": 280,
+        "bid_date": "2020-08-14T20:09:43.000Z"
+      },
+      "5": {
+        "bidder": "daboy906",
+        "price": 320,
+        "bid_date": "2020-08-15T09:23:04.000Z"
+      },
+      "6": {
+        "bidder": "Orkan",
+        "price": 300,
+        "bid_date": "2020-08-15T09:23:04.000Z"
+      },
+      "7": {
+        "bidder": "daboy906",
+        "price": 420,
+        "bid_date": "2020-08-15T09:23:50.000Z"
+      },
+      "8": {
+        "bidder": "Orkan",
+        "price": 400,
+        "bid_date": "2020-08-15T09:23:50.000Z"
+      },
+      "9": {
+        "bidder": "Orkan",
+        "price": 500,
+        "bid_date": "2020-08-15T09:24:16.000Z"
+      },
+      "10": {
+        "bidder": "Davos701",
+        "price": 520,
+        "bid_date": "2020-08-16T13:34:47.000Z"
+      },
+      "11": {
+        "bidder": "Davos701",
+        "price": 1020,
+        "bid_date": "2020-08-16T15:54:21.000Z"
+      },
+      "12": {
+        "bidder": "Flolipi",
+        "price": 1000,
+        "bid_date": "2020-08-16T15:54:21.000Z"
+      },
+      "13": {
+        "bidder": "Davos701",
+        "price": 1120,
+        "bid_date": "2020-08-19T09:51:26.000Z"
+      },
+      "14": {
+        "bidder": "dzoni",
+        "price": 1100,
+        "bid_date": "2020-08-19T09:51:26.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 60135": {
+    "kanton": "ZH",
+    "number": 60135,
+    "price": 1300,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/17081",
+    "bids": {
+      "0": {
+        "bidder": "DUEM",
+        "price": 200,
+        "bid_date": "2020-08-13T07:05:59.000Z"
+      },
+      "1": {
+        "bidder": "DUEM",
+        "price": 240,
+        "bid_date": "2020-08-13T12:11:57.000Z"
+      },
+      "2": {
+        "bidder": "daboy906",
+        "price": 220,
+        "bid_date": "2020-08-13T12:11:57.000Z"
+      },
+      "3": {
+        "bidder": "Grace001",
+        "price": 300,
+        "bid_date": "2020-08-14T19:29:45.000Z"
+      },
+      "4": {
+        "bidder": "DUEM",
+        "price": 320,
+        "bid_date": "2020-08-14T19:29:45.000Z"
+      },
+      "5": {
+        "bidder": "Lokelo",
+        "price": 340,
+        "bid_date": "2020-08-15T14:01:01.000Z"
+      },
+      "6": {
+        "bidder": "DUEM",
+        "price": 360,
+        "bid_date": "2020-08-15T14:01:01.000Z"
+      },
+      "7": {
+        "bidder": "Lokelo",
+        "price": 660,
+        "bid_date": "2020-08-15T14:01:08.000Z"
+      },
+      "8": {
+        "bidder": "DUEM",
+        "price": 680,
+        "bid_date": "2020-08-15T14:01:08.000Z"
+      },
+      "9": {
+        "bidder": "buriburi",
+        "price": 880,
+        "bid_date": "2020-08-15T15:51:42.000Z"
+      },
+      "10": {
+        "bidder": "DUEM",
+        "price": 900,
+        "bid_date": "2020-08-15T15:51:42.000Z"
+      },
+      "11": {
+        "bidder": "Dani5",
+        "price": 960,
+        "bid_date": "2020-08-17T10:05:16.000Z"
+      },
+      "12": {
+        "bidder": "DUEM",
+        "price": 980,
+        "bid_date": "2020-08-17T10:05:16.000Z"
+      },
+      "13": {
+        "bidder": "Lokelo",
+        "price": 1000,
+        "bid_date": "2020-08-18T11:23:17.000Z"
+      },
+      "14": {
+        "bidder": "DUEM",
+        "price": 1020,
+        "bid_date": "2020-08-18T11:23:17.000Z"
+      },
+      "15": {
+        "bidder": "dzoni",
+        "price": 1100,
+        "bid_date": "2020-08-19T09:52:00.000Z"
+      },
+      "16": {
+        "bidder": "DUEM",
+        "price": 1120,
+        "bid_date": "2020-08-19T09:52:00.000Z"
+      },
+      "17": {
+        "bidder": "dzoni",
+        "price": 1300,
+        "bid_date": "2020-08-19T09:53:25.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 60140": {
+    "kanton": "ZH",
+    "number": 60140,
+    "price": 1520,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/27166",
+    "bids": {
+      "0": {
+        "bidder": "DUEM",
+        "price": 200,
+        "bid_date": "2020-08-13T07:07:09.000Z"
+      },
+      "1": {
+        "bidder": "DUEM",
+        "price": 240,
+        "bid_date": "2020-08-13T08:31:19.000Z"
+      },
+      "2": {
+        "bidder": "Martinka007",
+        "price": 220,
+        "bid_date": "2020-08-13T08:31:19.000Z"
+      },
+      "3": {
+        "bidder": "Martinka007",
+        "price": 260,
+        "bid_date": "2020-08-13T08:33:51.000Z"
+      },
+      "4": {
+        "bidder": "DUEM",
+        "price": 280,
+        "bid_date": "2020-08-13T08:33:51.000Z"
+      },
+      "5": {
+        "bidder": "bluemli",
+        "price": 400,
+        "bid_date": "2020-08-13T10:34:26.000Z"
+      },
+      "6": {
+        "bidder": "DUEM",
+        "price": 420,
+        "bid_date": "2020-08-13T10:34:26.000Z"
+      },
+      "7": {
+        "bidder": "Noobcake",
+        "price": 800,
+        "bid_date": "2020-08-13T15:07:24.000Z"
+      },
+      "8": {
+        "bidder": "DUEM",
+        "price": 820,
+        "bid_date": "2020-08-13T15:07:24.000Z"
+      },
+      "9": {
+        "bidder": "Noobcake",
+        "price": 960,
+        "bid_date": "2020-08-13T15:08:04.000Z"
+      },
+      "10": {
+        "bidder": "DUEM",
+        "price": 980,
+        "bid_date": "2020-08-13T15:08:04.000Z"
+      },
+      "11": {
+        "bidder": "DUEM",
+        "price": 1020,
+        "bid_date": "2020-08-15T14:01:26.000Z"
+      },
+      "12": {
+        "bidder": "Lokelo",
+        "price": 1000,
+        "bid_date": "2020-08-15T14:01:26.000Z"
+      },
+      "13": {
+        "bidder": "ts@schmidli.ch",
+        "price": 1040,
+        "bid_date": "2020-08-17T09:58:53.000Z"
+      },
+      "14": {
+        "bidder": "DUEM",
+        "price": 1060,
+        "bid_date": "2020-08-17T09:58:53.000Z"
+      },
+      "15": {
+        "bidder": "ts@schmidli.ch",
+        "price": 1180,
+        "bid_date": "2020-08-17T10:18:46.000Z"
+      },
+      "16": {
+        "bidder": "DUEM",
+        "price": 1200,
+        "bid_date": "2020-08-17T10:18:46.000Z"
+      },
+      "17": {
+        "bidder": "ts@schmidli.ch",
+        "price": 1220,
+        "bid_date": "2020-08-17T10:18:46.000Z"
+      },
+      "18": {
+        "bidder": "DUEM",
+        "price": 1480,
+        "bid_date": "2020-08-18T07:45:46.000Z"
+      },
+      "19": {
+        "bidder": "ts@schmidli.ch",
+        "price": 1500,
+        "bid_date": "2020-08-18T07:45:46.000Z"
+      },
+      "20": {
+        "bidder": "DUEM",
+        "price": 1520,
+        "bid_date": "2020-08-18T07:45:46.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 62175": {
+    "kanton": "ZH",
+    "number": 62175,
+    "price": 1020,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/17314",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T12:12:38.000Z"
+      },
+      "1": {
+        "bidder": "daboy906",
+        "price": 240,
+        "bid_date": "2020-08-13T23:24:43.000Z"
+      },
+      "2": {
+        "bidder": "LariZH",
+        "price": 220,
+        "bid_date": "2020-08-13T23:24:43.000Z"
+      },
+      "3": {
+        "bidder": "daboy906",
+        "price": 420,
+        "bid_date": "2020-08-15T08:20:09.000Z"
+      },
+      "4": {
+        "bidder": "Grotli",
+        "price": 400,
+        "bid_date": "2020-08-15T08:20:09.000Z"
+      },
+      "5": {
+        "bidder": "Orkan",
+        "price": 520,
+        "bid_date": "2020-08-16T15:08:30.000Z"
+      },
+      "6": {
+        "bidder": "Flolipi",
+        "price": 1000,
+        "bid_date": "2020-08-16T16:43:13.000Z"
+      },
+      "7": {
+        "bidder": "kokoloko",
+        "price": 1020,
+        "bid_date": "2020-08-19T08:45:58.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 68499": {
+    "kanton": "ZH",
+    "number": 68499,
+    "price": 1220,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/18065",
+    "bids": {
+      "0": {
+        "bidder": "Orkan",
+        "price": 200,
+        "bid_date": "2020-08-13T15:26:58.000Z"
+      },
+      "1": {
+        "bidder": "CekaReinigung",
+        "price": 220,
+        "bid_date": "2020-08-14T10:58:25.000Z"
+      },
+      "2": {
+        "bidder": "buriburi",
+        "price": 240,
+        "bid_date": "2020-08-14T11:06:01.000Z"
+      },
+      "3": {
+        "bidder": "Chosi",
+        "price": 1220,
+        "bid_date": "2020-08-14T20:07:56.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 71800": {
+    "kanton": "ZH",
+    "number": 71800,
+    "price": 1600,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/27187",
+    "bids": {
+      "0": {
+        "bidder": "Fredy007",
+        "price": 200,
+        "bid_date": "2020-08-13T08:58:51.000Z"
+      },
+      "1": {
+        "bidder": "pisello1",
+        "price": 1000,
+        "bid_date": "2020-08-13T10:27:29.000Z"
+      },
+      "2": {
+        "bidder": "Lokelo",
+        "price": 1020,
+        "bid_date": "2020-08-15T14:01:43.000Z"
+      },
+      "3": {
+        "bidder": "Splash",
+        "price": 1040,
+        "bid_date": "2020-08-16T06:26:24.000Z"
+      },
+      "4": {
+        "bidder": "pisello1",
+        "price": 1060,
+        "bid_date": "2020-08-16T10:50:07.000Z"
+      },
+      "5": {
+        "bidder": "Laab",
+        "price": 1400,
+        "bid_date": "2020-08-16T14:48:53.000Z"
+      },
+      "6": {
+        "bidder": "pisello1",
+        "price": 1420,
+        "bid_date": "2020-08-16T15:14:02.000Z"
+      },
+      "7": {
+        "bidder": "Lukii",
+        "price": 1440,
+        "bid_date": "2020-08-17T16:03:48.000Z"
+      },
+      "8": {
+        "bidder": "pisello1",
+        "price": 1460,
+        "bid_date": "2020-08-17T21:52:37.000Z"
+      },
+      "9": {
+        "bidder": "Lukii",
+        "price": 1500,
+        "bid_date": "2020-08-18T12:12:32.000Z"
+      },
+      "10": {
+        "bidder": "pisello1",
+        "price": 1520,
+        "bid_date": "2020-08-18T15:40:46.000Z"
+      },
+      "11": {
+        "bidder": "Shemuel",
+        "price": 1580,
+        "bid_date": "2020-08-18T18:09:32.000Z"
+      },
+      "12": {
+        "bidder": "Tsubasa",
+        "price": 1600,
+        "bid_date": "2020-08-19T11:32:23.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 74889": {
+    "kanton": "ZH",
+    "number": 74889,
+    "price": 1000,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/18789",
+    "bids": {
+      "0": {
+        "bidder": "SM88LW",
+        "price": 260,
+        "bid_date": "2020-08-13T14:10:24.000Z"
+      },
+      "1": {
+        "bidder": "daboy906",
+        "price": 280,
+        "bid_date": "2020-08-14T20:11:23.000Z"
+      },
+      "2": {
+        "bidder": "daboy906",
+        "price": 360,
+        "bid_date": "2020-08-15T01:29:54.000Z"
+      },
+      "3": {
+        "bidder": "Rifraf905",
+        "price": 340,
+        "bid_date": "2020-08-15T01:29:54.000Z"
+      },
+      "4": {
+        "bidder": "daboy906",
+        "price": 400,
+        "bid_date": "2020-08-15T12:41:43.000Z"
+      },
+      "5": {
+        "bidder": "Seicho",
+        "price": 380,
+        "bid_date": "2020-08-15T12:41:43.000Z"
+      },
+      "6": {
+        "bidder": "daboy906",
+        "price": 440,
+        "bid_date": "2020-08-16T11:59:40.000Z"
+      },
+      "7": {
+        "bidder": "Tiger88",
+        "price": 420,
+        "bid_date": "2020-08-16T11:59:40.000Z"
+      },
+      "8": {
+        "bidder": "Flolipi",
+        "price": 1000,
+        "bid_date": "2020-08-16T15:54:46.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 78847": {
+    "kanton": "ZH",
+    "number": 78847,
+    "price": 1020,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/19210",
+    "bids": {
+      "0": {
+        "bidder": "MrAhmeti",
+        "price": 280,
+        "bid_date": "2020-08-13T09:34:25.000Z"
+      },
+      "1": {
+        "bidder": "SM88LW",
+        "price": 360,
+        "bid_date": "2020-08-13T14:09:27.000Z"
+      },
+      "2": {
+        "bidder": "MrAhmeti",
+        "price": 460,
+        "bid_date": "2020-08-14T00:31:34.000Z"
+      },
+      "3": {
+        "bidder": "SM88LW",
+        "price": 480,
+        "bid_date": "2020-08-15T16:53:44.000Z"
+      },
+      "4": {
+        "bidder": "SM88LW",
+        "price": 520,
+        "bid_date": "2020-08-16T12:06:16.000Z"
+      },
+      "5": {
+        "bidder": "Tiger88",
+        "price": 500,
+        "bid_date": "2020-08-16T12:06:16.000Z"
+      },
+      "6": {
+        "bidder": "SM88LW",
+        "price": 560,
+        "bid_date": "2020-08-16T12:06:33.000Z"
+      },
+      "7": {
+        "bidder": "Tiger88",
+        "price": 540,
+        "bid_date": "2020-08-16T12:06:33.000Z"
+      },
+      "8": {
+        "bidder": "SM88LW",
+        "price": 620,
+        "bid_date": "2020-08-16T22:20:53.000Z"
+      },
+      "9": {
+        "bidder": "Delaso2006",
+        "price": 600,
+        "bid_date": "2020-08-16T22:20:53.000Z"
+      },
+      "10": {
+        "bidder": "SM88LW",
+        "price": 920,
+        "bid_date": "2020-08-17T09:06:34.000Z"
+      },
+      "11": {
+        "bidder": "Arlind majiq",
+        "price": 900,
+        "bid_date": "2020-08-17T09:06:34.000Z"
+      },
+      "12": {
+        "bidder": "SM88LW",
+        "price": 1020,
+        "bid_date": "2020-08-19T09:52:40.000Z"
+      },
+      "13": {
+        "bidder": "dzoni",
+        "price": 1000,
+        "bid_date": "2020-08-19T09:52:40.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 79343": {
+    "kanton": "ZH",
+    "number": 79343,
+    "price": 940,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/19263",
+    "bids": {
+      "0": {
+        "bidder": "vivalv",
+        "price": 200,
+        "bid_date": "2020-08-14T10:04:44.000Z"
+      },
+      "1": {
+        "bidder": "LariZH",
+        "price": 220,
+        "bid_date": "2020-08-14T19:22:46.000Z"
+      },
+      "2": {
+        "bidder": "Tonyzz",
+        "price": 500,
+        "bid_date": "2020-08-15T00:56:36.000Z"
+      },
+      "3": {
+        "bidder": "Delaso2006",
+        "price": 600,
+        "bid_date": "2020-08-16T22:21:34.000Z"
+      },
+      "4": {
+        "bidder": "badada",
+        "price": 640,
+        "bid_date": "2020-08-17T09:40:33.000Z"
+      },
+      "5": {
+        "bidder": "Mimicjr",
+        "price": 700,
+        "bid_date": "2020-08-17T10:45:46.000Z"
+      },
+      "6": {
+        "bidder": "Amar06",
+        "price": 720,
+        "bid_date": "2020-08-17T19:42:57.000Z"
+      },
+      "7": {
+        "bidder": "Mimicjr",
+        "price": 740,
+        "bid_date": "2020-08-17T19:54:34.000Z"
+      },
+      "8": {
+        "bidder": "dzoni",
+        "price": 800,
+        "bid_date": "2020-08-19T01:08:44.000Z"
+      },
+      "9": {
+        "bidder": "RedStar",
+        "price": 820,
+        "bid_date": "2020-08-19T07:10:03.000Z"
+      },
+      "10": {
+        "bidder": "kokoloko",
+        "price": 840,
+        "bid_date": "2020-08-19T08:27:57.000Z"
+      },
+      "11": {
+        "bidder": "mj23",
+        "price": 900,
+        "bid_date": "2020-08-19T08:32:49.000Z"
+      },
+      "12": {
+        "bidder": "Mimicjr",
+        "price": 940,
+        "bid_date": "2020-08-19T09:34:40.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 82093": {
+    "kanton": "ZH",
+    "number": 82093,
+    "price": 940,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/19544",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T12:13:45.000Z"
+      },
+      "1": {
+        "bidder": "brass",
+        "price": 280,
+        "bid_date": "2020-08-14T14:02:43.000Z"
+      },
+      "2": {
+        "bidder": "Tonyzz",
+        "price": 300,
+        "bid_date": "2020-08-15T00:57:22.000Z"
+      },
+      "3": {
+        "bidder": "sacha052",
+        "price": 400,
+        "bid_date": "2020-08-16T07:16:36.000Z"
+      },
+      "4": {
+        "bidder": "Orkan",
+        "price": 500,
+        "bid_date": "2020-08-16T15:10:30.000Z"
+      },
+      "5": {
+        "bidder": "Delaso2006",
+        "price": 600,
+        "bid_date": "2020-08-16T22:22:30.000Z"
+      },
+      "6": {
+        "bidder": "Marco84",
+        "price": 720,
+        "bid_date": "2020-08-17T08:01:43.000Z"
+      },
+      "7": {
+        "bidder": "dave.dave",
+        "price": 740,
+        "bid_date": "2020-08-17T16:05:29.000Z"
+      },
+      "8": {
+        "bidder": "GAFAGashi",
+        "price": 780,
+        "bid_date": "2020-08-19T06:45:50.000Z"
+      },
+      "9": {
+        "bidder": "mtummillo",
+        "price": 800,
+        "bid_date": "2020-08-19T08:01:22.000Z"
+      },
+      "10": {
+        "bidder": "mj23",
+        "price": 820,
+        "bid_date": "2020-08-19T08:25:40.000Z"
+      },
+      "11": {
+        "bidder": "starino1965",
+        "price": 840,
+        "bid_date": "2020-08-19T08:26:40.000Z"
+      },
+      "12": {
+        "bidder": "starino1965",
+        "price": 940,
+        "bid_date": "2020-08-19T08:58:12.000Z"
+      },
+      "13": {
+        "bidder": "ainjel",
+        "price": 920,
+        "bid_date": "2020-08-19T08:58:12.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 83495": {
+    "kanton": "ZH",
+    "number": 83495,
+    "price": 960,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/19724",
+    "bids": {
+      "0": {
+        "bidder": "Elster",
+        "price": 220,
+        "bid_date": "2020-08-14T14:33:49.000Z"
+      },
+      "1": {
+        "bidder": "schnableur",
+        "price": 240,
+        "bid_date": "2020-08-15T11:18:28.000Z"
+      },
+      "2": {
+        "bidder": "KW342020",
+        "price": 260,
+        "bid_date": "2020-08-15T13:10:03.000Z"
+      },
+      "3": {
+        "bidder": "Chris27",
+        "price": 280,
+        "bid_date": "2020-08-16T09:28:15.000Z"
+      },
+      "4": {
+        "bidder": "Vreni07",
+        "price": 300,
+        "bid_date": "2020-08-16T12:11:16.000Z"
+      },
+      "5": {
+        "bidder": "Flolipi",
+        "price": 940,
+        "bid_date": "2020-08-16T16:43:33.000Z"
+      },
+      "6": {
+        "bidder": "thutli",
+        "price": 960,
+        "bid_date": "2020-08-19T07:11:10.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 84119": {
+    "kanton": "ZH",
+    "number": 84119,
+    "price": 1080,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/26513",
+    "bids": {
+      "0": {
+        "bidder": "Pepito",
+        "price": 200,
+        "bid_date": "2020-08-14T08:05:09.000Z"
+      },
+      "1": {
+        "bidder": "brass",
+        "price": 300,
+        "bid_date": "2020-08-14T08:27:28.000Z"
+      },
+      "2": {
+        "bidder": "dsiepmann",
+        "price": 340,
+        "bid_date": "2020-08-14T13:46:42.000Z"
+      },
+      "3": {
+        "bidder": "Flolipi",
+        "price": 940,
+        "bid_date": "2020-08-16T16:43:50.000Z"
+      },
+      "4": {
+        "bidder": "chpo",
+        "price": 960,
+        "bid_date": "2020-08-17T11:49:15.000Z"
+      },
+      "5": {
+        "bidder": "keller1",
+        "price": 1020,
+        "bid_date": "2020-08-17T19:53:56.000Z"
+      },
+      "6": {
+        "bidder": "chpo",
+        "price": 1040,
+        "bid_date": "2020-08-18T00:32:34.000Z"
+      },
+      "7": {
+        "bidder": "keller1",
+        "price": 1060,
+        "bid_date": "2020-08-19T01:47:30.000Z"
+      },
+      "8": {
+        "bidder": "chpo",
+        "price": 1080,
+        "bid_date": "2020-08-19T09:45:56.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 88172": {
+    "kanton": "ZH",
+    "number": 88172,
+    "price": 1200,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/20319",
+    "bids": {
+      "0": {
+        "bidder": "daboy906",
+        "price": 200,
+        "bid_date": "2020-08-13T12:14:19.000Z"
+      },
+      "1": {
+        "bidder": "SM88LW",
+        "price": 360,
+        "bid_date": "2020-08-13T14:11:04.000Z"
+      },
+      "2": {
+        "bidder": "ed30",
+        "price": 800,
+        "bid_date": "2020-08-13T17:52:13.000Z"
+      },
+      "3": {
+        "bidder": "Splash",
+        "price": 820,
+        "bid_date": "2020-08-17T16:14:33.000Z"
+      },
+      "4": {
+        "bidder": "Dorisl",
+        "price": 860,
+        "bid_date": "2020-08-19T07:31:11.000Z"
+      },
+      "5": {
+        "bidder": "Nik72",
+        "price": 880,
+        "bid_date": "2020-08-19T07:36:36.000Z"
+      },
+      "6": {
+        "bidder": "Nik72",
+        "price": 1020,
+        "bid_date": "2020-08-19T08:06:28.000Z"
+      },
+      "7": {
+        "bidder": "nikolapolic",
+        "price": 1000,
+        "bid_date": "2020-08-19T08:06:28.000Z"
+      },
+      "8": {
+        "bidder": "Nik72",
+        "price": 1120,
+        "bid_date": "2020-08-19T08:06:41.000Z"
+      },
+      "9": {
+        "bidder": "nikolapolic",
+        "price": 1100,
+        "bid_date": "2020-08-19T08:06:41.000Z"
+      },
+      "10": {
+        "bidder": "nikolapolic",
+        "price": 1200,
+        "bid_date": "2020-08-19T08:06:54.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 91970": {
+    "kanton": "ZH",
+    "number": 91970,
+    "price": 1000,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/29320",
+    "bids": {
+      "0": {
+        "bidder": "Papi20",
+        "price": 200,
+        "bid_date": "2020-08-13T11:58:19.000Z"
+      },
+      "1": {
+        "bidder": "Ismail1990",
+        "price": 220,
+        "bid_date": "2020-08-14T09:17:13.000Z"
+      },
+      "2": {
+        "bidder": "Grotli",
+        "price": 240,
+        "bid_date": "2020-08-15T08:20:53.000Z"
+      },
+      "3": {
+        "bidder": "Grotli",
+        "price": 280,
+        "bid_date": "2020-08-15T09:04:29.000Z"
+      },
+      "4": {
+        "bidder": "Ismail1990",
+        "price": 260,
+        "bid_date": "2020-08-15T09:04:29.000Z"
+      },
+      "5": {
+        "bidder": "Ismail1990",
+        "price": 400,
+        "bid_date": "2020-08-15T09:05:04.000Z"
+      },
+      "6": {
+        "bidder": "Flolipi",
+        "price": 1000,
+        "bid_date": "2020-08-16T15:55:03.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 94117": {
+    "kanton": "ZH",
+    "number": 94117,
+    "price": 960,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/27554",
+    "bids": {
+      "0": {
+        "bidder": "Sababaj",
+        "price": 300,
+        "bid_date": "2020-08-14T13:20:10.000Z"
+      },
+      "1": {
+        "bidder": "Ensar",
+        "price": 320,
+        "bid_date": "2020-08-14T20:29:45.000Z"
+      },
+      "2": {
+        "bidder": "Eemtec",
+        "price": 340,
+        "bid_date": "2020-08-15T20:59:36.000Z"
+      },
+      "3": {
+        "bidder": "JohnnyB",
+        "price": 400,
+        "bid_date": "2020-08-16T09:14:27.000Z"
+      },
+      "4": {
+        "bidder": "Orkan",
+        "price": 500,
+        "bid_date": "2020-08-16T16:08:44.000Z"
+      },
+      "5": {
+        "bidder": "Grotli",
+        "price": 520,
+        "bid_date": "2020-08-16T18:31:25.000Z"
+      },
+      "6": {
+        "bidder": "zhsee44",
+        "price": 720,
+        "bid_date": "2020-08-16T19:39:34.000Z"
+      },
+      "7": {
+        "bidder": "Faster",
+        "price": 800,
+        "bid_date": "2020-08-19T06:39:09.000Z"
+      },
+      "8": {
+        "bidder": "mtummillo",
+        "price": 960,
+        "bid_date": "2020-08-19T08:01:59.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 96323": {
+    "kanton": "ZH",
+    "number": 96323,
+    "price": 1000,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/25432",
+    "bids": {
+      "0": {
+        "bidder": "-JANNA-",
+        "price": 500,
+        "bid_date": "2020-08-13T10:33:59.000Z"
+      },
+      "1": {
+        "bidder": "Orkan",
+        "price": 520,
+        "bid_date": "2020-08-16T16:07:51.000Z"
+      },
+      "2": {
+        "bidder": "vivalv",
+        "price": 540,
+        "bid_date": "2020-08-17T11:57:21.000Z"
+      },
+      "3": {
+        "bidder": "-JANNA-",
+        "price": 600,
+        "bid_date": "2020-08-17T13:57:34.000Z"
+      },
+      "4": {
+        "bidder": "vivalv",
+        "price": 620,
+        "bid_date": "2020-08-17T17:52:04.000Z"
+      },
+      "5": {
+        "bidder": "-JANNA-",
+        "price": 700,
+        "bid_date": "2020-08-17T18:01:30.000Z"
+      },
+      "6": {
+        "bidder": "Mimicjr",
+        "price": 740,
+        "bid_date": "2020-08-19T05:40:40.000Z"
+      },
+      "7": {
+        "bidder": "kokoloko",
+        "price": 760,
+        "bid_date": "2020-08-19T07:25:48.000Z"
+      },
+      "8": {
+        "bidder": "mtummillo",
+        "price": 800,
+        "bid_date": "2020-08-19T08:02:31.000Z"
+      },
+      "9": {
+        "bidder": "Mimicjr",
+        "price": 820,
+        "bid_date": "2020-08-19T08:23:22.000Z"
+      },
+      "10": {
+        "bidder": "mtummillo",
+        "price": 880,
+        "bid_date": "2020-08-19T08:24:54.000Z"
+      },
+      "11": {
+        "bidder": "-JANNA-",
+        "price": 1000,
+        "bid_date": "2020-08-19T08:59:53.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 97015": {
+    "kanton": "ZH",
+    "number": 97015,
+    "price": 1000,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/26362",
+    "bids": {
+      "0": {
+        "bidder": "deniz2205",
+        "price": 700,
+        "bid_date": "2020-08-13T22:49:26.000Z"
+      },
+      "1": {
+        "bidder": "Stechwerk",
+        "price": 720,
+        "bid_date": "2020-08-14T09:59:34.000Z"
+      },
+      "2": {
+        "bidder": "Stechwerk",
+        "price": 940,
+        "bid_date": "2020-08-16T19:38:31.000Z"
+      },
+      "3": {
+        "bidder": "zhsee44",
+        "price": 920,
+        "bid_date": "2020-08-16T19:38:31.000Z"
+      },
+      "4": {
+        "bidder": "Stechwerk",
+        "price": 1000,
+        "bid_date": "2020-08-16T19:38:57.000Z"
+      },
+      "5": {
+        "bidder": "zhsee44",
+        "price": 980,
+        "bid_date": "2020-08-16T19:38:57.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 553000": {
+    "kanton": "ZH",
+    "number": 553000,
+    "price": 820,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/22065",
+    "bids": {
+      "0": {
+        "bidder": "Papi20",
+        "price": 100,
+        "bid_date": "2020-08-13T11:59:37.000Z"
+      },
+      "1": {
+        "bidder": "recepabi",
+        "price": 110,
+        "bid_date": "2020-08-13T12:11:24.000Z"
+      },
+      "2": {
+        "bidder": "Shasi",
+        "price": 120,
+        "bid_date": "2020-08-13T20:31:55.000Z"
+      },
+      "3": {
+        "bidder": "Papi20",
+        "price": 130,
+        "bid_date": "2020-08-14T10:41:01.000Z"
+      },
+      "4": {
+        "bidder": "Shasi",
+        "price": 150,
+        "bid_date": "2020-08-14T16:03:31.000Z"
+      },
+      "5": {
+        "bidder": "Diemartis",
+        "price": 160,
+        "bid_date": "2020-08-14T21:14:15.000Z"
+      },
+      "6": {
+        "bidder": "Pepito",
+        "price": 170,
+        "bid_date": "2020-08-15T14:56:29.000Z"
+      },
+      "7": {
+        "bidder": "Diemartis",
+        "price": 180,
+        "bid_date": "2020-08-15T14:56:29.000Z"
+      },
+      "8": {
+        "bidder": "Pepito",
+        "price": 190,
+        "bid_date": "2020-08-15T16:40:47.000Z"
+      },
+      "9": {
+        "bidder": "Diemartis",
+        "price": 200,
+        "bid_date": "2020-08-15T16:40:47.000Z"
+      },
+      "10": {
+        "bidder": "Pepito",
+        "price": 210,
+        "bid_date": "2020-08-15T16:41:24.000Z"
+      },
+      "11": {
+        "bidder": "Diemartis",
+        "price": 220,
+        "bid_date": "2020-08-15T16:41:24.000Z"
+      },
+      "12": {
+        "bidder": "Pepito",
+        "price": 230,
+        "bid_date": "2020-08-15T16:42:06.000Z"
+      },
+      "13": {
+        "bidder": "Diemartis",
+        "price": 240,
+        "bid_date": "2020-08-15T16:42:06.000Z"
+      },
+      "14": {
+        "bidder": "Papi20",
+        "price": 250,
+        "bid_date": "2020-08-15T19:15:21.000Z"
+      },
+      "15": {
+        "bidder": "Diemartis",
+        "price": 260,
+        "bid_date": "2020-08-15T19:15:21.000Z"
+      },
+      "16": {
+        "bidder": "Diemartis",
+        "price": 290,
+        "bid_date": "2020-08-15T19:15:35.000Z"
+      },
+      "17": {
+        "bidder": "Papi20",
+        "price": 280,
+        "bid_date": "2020-08-15T19:15:35.000Z"
+      },
+      "18": {
+        "bidder": "Papi20",
+        "price": 340,
+        "bid_date": "2020-08-15T19:15:54.000Z"
+      },
+      "19": {
+        "bidder": "Pepito",
+        "price": 350,
+        "bid_date": "2020-08-15T20:43:41.000Z"
+      },
+      "20": {
+        "bidder": "Chris27",
+        "price": 360,
+        "bid_date": "2020-08-16T09:29:11.000Z"
+      },
+      "21": {
+        "bidder": "Ali1234",
+        "price": 370,
+        "bid_date": "2020-08-16T09:54:10.000Z"
+      },
+      "22": {
+        "bidder": "pisello1",
+        "price": 380,
+        "bid_date": "2020-08-16T12:53:37.000Z"
+      },
+      "23": {
+        "bidder": "Ali1234",
+        "price": 390,
+        "bid_date": "2020-08-16T12:58:18.000Z"
+      },
+      "24": {
+        "bidder": "pisello1",
+        "price": 400,
+        "bid_date": "2020-08-16T15:14:28.000Z"
+      },
+      "25": {
+        "bidder": "hakuna_",
+        "price": 600,
+        "bid_date": "2020-08-17T08:04:54.000Z"
+      },
+      "26": {
+        "bidder": "Antic636",
+        "price": 630,
+        "bid_date": "2020-08-17T09:49:08.000Z"
+      },
+      "27": {
+        "bidder": "Lukii",
+        "price": 640,
+        "bid_date": "2020-08-17T16:01:53.000Z"
+      },
+      "28": {
+        "bidder": "Fesya84",
+        "price": 650,
+        "bid_date": "2020-08-17T18:03:08.000Z"
+      },
+      "29": {
+        "bidder": "Lukii",
+        "price": 660,
+        "bid_date": "2020-08-17T22:17:42.000Z"
+      },
+      "30": {
+        "bidder": "Andrew_7",
+        "price": 670,
+        "bid_date": "2020-08-18T10:43:55.000Z"
+      },
+      "31": {
+        "bidder": "Lukii",
+        "price": 700,
+        "bid_date": "2020-08-18T12:11:18.000Z"
+      },
+      "32": {
+        "bidder": "Chamas",
+        "price": 710,
+        "bid_date": "2020-08-18T17:24:43.000Z"
+      },
+      "33": {
+        "bidder": "Lukii",
+        "price": 800,
+        "bid_date": "2020-08-18T20:24:32.000Z"
+      },
+      "34": {
+        "bidder": "chef1970",
+        "price": 810,
+        "bid_date": "2020-08-19T10:30:07.000Z"
+      },
+      "35": {
+        "bidder": "Lukii",
+        "price": 820,
+        "bid_date": "2020-08-19T11:39:21.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  },
+  "ZH 763367": {
+    "kanton": "ZH",
+    "number": 763367,
+    "price": 630,
+    "auction_end": "19.08.2020 19:00",
+    "href": "https://www.auktion.stva.zh.ch/auction/car/22163",
+    "bids": {
+      "0": {
+        "bidder": "Martinka007",
+        "price": 120,
+        "bid_date": "2020-08-13T12:02:13.000Z"
+      },
+      "1": {
+        "bidder": "recepabi",
+        "price": 130,
+        "bid_date": "2020-08-13T12:11:45.000Z"
+      },
+      "2": {
+        "bidder": "Pepito",
+        "price": 150,
+        "bid_date": "2020-08-14T11:14:26.000Z"
+      },
+      "3": {
+        "bidder": "Azim76",
+        "price": 250,
+        "bid_date": "2020-08-15T16:25:34.000Z"
+      },
+      "4": {
+        "bidder": "recepabi",
+        "price": 270,
+        "bid_date": "2020-08-15T19:36:03.000Z"
+      },
+      "5": {
+        "bidder": "Pepito",
+        "price": 280,
+        "bid_date": "2020-08-16T19:02:22.000Z"
+      },
+      "6": {
+        "bidder": "DaniCo10",
+        "price": 290,
+        "bid_date": "2020-08-16T23:25:26.000Z"
+      },
+      "7": {
+        "bidder": "claudio.DE",
+        "price": 500,
+        "bid_date": "2020-08-17T08:33:26.000Z"
+      },
+      "8": {
+        "bidder": "Martinka007",
+        "price": 530,
+        "bid_date": "2020-08-17T10:31:18.000Z"
+      },
+      "9": {
+        "bidder": "bekir",
+        "price": 540,
+        "bid_date": "2020-08-17T11:13:43.000Z"
+      },
+      "10": {
+        "bidder": "Ledian",
+        "price": 550,
+        "bid_date": "2020-08-17T11:25:34.000Z"
+      },
+      "11": {
+        "bidder": "Fesya84",
+        "price": 560,
+        "bid_date": "2020-08-17T18:03:55.000Z"
+      },
+      "12": {
+        "bidder": "Ledian",
+        "price": 570,
+        "bid_date": "2020-08-17T18:24:08.000Z"
+      },
+      "13": {
+        "bidder": "Ballini",
+        "price": 580,
+        "bid_date": "2020-08-17T18:49:38.000Z"
+      },
+      "14": {
+        "bidder": "Grischafahrer",
+        "price": 600,
+        "bid_date": "2020-08-18T06:26:09.000Z"
+      },
+      "15": {
+        "bidder": "Edison",
+        "price": 610,
+        "bid_date": "2020-08-18T16:15:10.000Z"
+      },
+      "16": {
+        "bidder": "Haddock",
+        "price": 620,
+        "bid_date": "2020-08-18T18:03:53.000Z"
+      },
+      "17": {
+        "bidder": "Grischafahrer",
+        "price": 630,
+        "bid_date": "2020-08-19T08:40:45.000Z"
+      }
+    },
+    "runtime": "2020-08-19T12:53:34.480996"
+  }
+}
